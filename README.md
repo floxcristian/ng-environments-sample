@@ -1,7 +1,5 @@
-Se creo un ambiente personalizado *locale*. 
 
-Para ello se creo un archivo `environment.locale.ts` y se tuvo que modificar el archivo `angular.json`
-
+### Lista de comandos
 
 ```
 ng serve
@@ -12,6 +10,14 @@ ng build (por defecto ahora incluye --prod)
 ng build -c development
 ng build -c locale
 ```
+
+
+### Creando un ambiente personalizado
+Se creo un ambiente personalizado *locale*. 
+
+Para ello se creo un archivo `environment.locale.ts` y se tuvo que modificar el archivo `angular.json`
+
+
 
 ### Probar nuestra compilación `ng-build`
 Para probar la compilación del proyecto de forma local podemos utilizar el paquete http-server:
