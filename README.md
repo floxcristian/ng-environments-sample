@@ -1,3 +1,5 @@
+Se creo un ambiente personalizado locale. environment.locale.ts
+
 ```
 ng serve
 ng serve -c locale
