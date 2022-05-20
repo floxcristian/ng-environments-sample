@@ -10,6 +10,7 @@ ng build -c development
 ng build -c locale
 ```
 
+### Probar nuestra compilación `ng-build`
 Para probar la compilación del proyecto de forma local podemos utilizar el paquete http-server:
 ```
 npm i -g http-server
