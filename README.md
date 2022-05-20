@@ -9,3 +9,12 @@ ng build (por defecto ahora incluye --prod)
 ng build -c development
 ng build -c locale
 ```
+
+Para probar la compilación del proyecto de forma local podemos utilizar el paquete http-server:
+```
+npm i -g http-server
+```
+Luego:
+```
+http-server dist/ng-environments-sample
+```
