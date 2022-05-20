@@ -1,4 +1,7 @@
-Se creo un ambiente personalizado locale. environment.locale.ts
+Se creo un ambiente personalizado *locale*. 
+
+Para ello se creo un archivo `environment.locale.ts` y se tuvo que modificar el archivo `angular.json`
+
 
 ```
 ng serve
